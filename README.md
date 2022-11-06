@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://kmortal.github.io/modernInterior">
+    <a href="https://kmortal.github.io/modernInterior/">
       Demo
     </a>
     <span> | </span>
