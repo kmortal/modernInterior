@@ -97,6 +97,11 @@ img{
 }
 
 @media (max-width: 1219px){
+    header nav ul li:first-of-type{
+        width: 3.5em;
+        align-self: center;
+    }
+
     #responsiveButton{
         display: flex;
         font-size: 30px;
@@ -125,7 +130,7 @@ img{
         float: right;
         flex-direction: column;
         text-align: center;
-        height: 0;
+        height: 0vh;
         overflow: hidden;
     }
 
